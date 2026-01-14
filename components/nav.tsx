@@ -64,7 +64,7 @@ const Nav = () => {
               <Link href="tel:+917648935563">phone</Link>
             </li>
             <li>
-              <Link href="https://linkedin.com/in/aditya-tiwari">
+              <Link href="https://www.linkedin.com/in/adityatiwari08/">
                 linkedin
               </Link>
             </li>
