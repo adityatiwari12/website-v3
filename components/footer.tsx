@@ -65,7 +65,7 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://linkedin.com/in/philipp-parzer"
+                href="https://linkedin.com/in/aditya-tiwari"
               >
                 LinkedIn
               </Link>
@@ -76,9 +76,19 @@ const Footer = ({}: FooterProps) => {
                 className="transition-opacity opacity-75 hover:opacity-100"
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://github.com/philparzer"
+                href="https://github.com/adityatiwari"
               >
                 GitHub
+              </Link>
+            </li>
+            <li>
+              <Link
+                className="transition-opacity opacity-75 hover:opacity-100"
+                rel="noopener noreferrer"
+                target="_blank"
+                href="mailto:adityatiwari@gmail.com"
+              >
+                adityatiwari@gmail.com
               </Link>
             </li>
             <li>
